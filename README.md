@@ -2,11 +2,11 @@
 
 ## Project 1: Amazon Prime Movies and TV Shows Dashboard
 
-### MS Excel
+### Power BI
 
 ## Project 2: 
 
-### Power BI
+### SQL & Python
 
 ## Project 3: 
 

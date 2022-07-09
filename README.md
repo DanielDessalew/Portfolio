@@ -2,12 +2,12 @@
 
 ## Project 1: Amazon Prime Movies and TV Shows Dashboard
 
-### Power BI
+### Tools: Tableau
 
 ## Project 2: 
 
-### SQL & Python
+### Tools: Python
 
 ## Project 3: 
 
-### SQL & Python
+### Tools: SQL, Python, Tableau

@@ -6,6 +6,8 @@
 
 ![Shows Quantity](f.jpg)
 
+<img src="f.png" width="200" height="100">
+
 ## Project 2: 
 
 ### Tools: Python

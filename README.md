@@ -1,8 +1,8 @@
-# Data Anlytics Projects
+# Data Analytics Projects
 
-## Project 1: Amazon Prime Movies and TV Shows Dashboard
+## [Project 1: Best Streaming Serviece](https://danieldessalew.github.io/BestStreamingServices/)
 
-### Tools: Tableau
+### Analyzing a TV Shows dataset to determine the best streaming service with Python.
 
 ## Project 2: 
 

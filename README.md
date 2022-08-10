@@ -7,10 +7,17 @@
 ![Shows Quantity](f.jpg)
 
 
-## Project 2: 
+## Project 2: Instagram Impressions 
 
-### Tools: Python
+### Analyzing an Instagram dataset to better understand and predict the interactions algorithm.
 
-## Project 3: 
+![Shows Quantity](insta1.jpg)
+![Shows Quantity](insta2.jpg)
 
-### Tools: SQL, Python, Tableau
+## Project 3: HR Data Tableau Dashboards
+
+### Building Tableau dashboards with an HR dataset.
+
+
+![Shows Quantity](HR-Dashboard1.jpg)
+![Shows Quantity](HR-Dashboard2.jpg)

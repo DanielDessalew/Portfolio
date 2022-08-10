@@ -4,20 +4,21 @@
 
 ### Analyzing a TV Shows dataset to determine the best streaming service with Python.
 
-![Shows Quantity](f.jpg)
+![Shows Quantity](f.jpg "The count of TV shows per platform")
+![Shows Quality](f2.jpg "Scatter plot of critics' ratings")
 
 
 ## [Project 2: Instagram Impressions](https://danieldessalew.github.io/InstagramImpressions/)
 
 ### Analyzing an Instagram dataset to better understand and predict the interactions algorithm.
 
-![Shows Quantity](insta1.jpg)
-![Shows Quantity](insta2.jpg)
+![Impressions to Likes relationship](insta1.jpg)
+![Where impressions come from](insta2.jpg "Pie chart of impressions' source")
 
 ## [Project 3: HR Data Tableau Dashboards](https://danieldessalew.github.io/HRData-TableauDashboards/)
 
 ### Building Tableau dashboards with an HR dataset.
 
 
-![Shows Quantity](HR-Dashboard1.jpg)
-![Shows Quantity](HR-Dashboard2.jpg)
+![Dash1](HR-Dashboard1.jpg)
+![Dash2](HR-Dashboard2.jpg)

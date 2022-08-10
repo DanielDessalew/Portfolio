@@ -7,14 +7,14 @@
 ![Shows Quantity](f.jpg)
 
 
-## Project 2: Instagram Impressions 
+## [Project 2: Instagram Impressions](https://danieldessalew.github.io/InstagramImpressions/)
 
 ### Analyzing an Instagram dataset to better understand and predict the interactions algorithm.
 
 ![Shows Quantity](insta1.jpg)
 ![Shows Quantity](insta2.jpg)
 
-## Project 3: HR Data Tableau Dashboards
+## [Project 3: HR Data Tableau Dashboards](https://danieldessalew.github.io/HRData-TableauDashboards/)
 
 ### Building Tableau dashboards with an HR dataset.
 

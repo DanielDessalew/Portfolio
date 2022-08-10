@@ -10,7 +10,7 @@
 
 ## [Project 2: Instagram Impressions](https://danieldessalew.github.io/InstagramImpressions/)
 
-### Analyzing an Instagram dataset to better understand and predict the interactions algorithm.
+### Analyzing an Instagram dataset to better understand and predict the interactions algorithm with Python.
 
 ![Impressions to Likes relationship](insta1.jpg)
 ![Where impressions come from](insta2.jpg "Pie chart of impressions' source")

@@ -4,9 +4,8 @@
 
 ### Analyzing a TV Shows dataset to determine the best streaming service with Python.
 
-![Shows Quantity](f.jpg "The count of TV shows per platform")
 ![Shows Quality](f2.jpg "Scatter plot of critics' ratings")
-
+![Shows Quantity](f.jpg "The count of TV shows per platform")
 
 ## [Project 2: Instagram Impressions](https://danieldessalew.github.io/InstagramImpressions/)
 
